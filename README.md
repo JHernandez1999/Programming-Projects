@@ -1,2 +1,2 @@
-# Programming Projects (C, C++, Java)
+# Programming Projects (C, C++, Java, Python)
 Personal/School Projects
